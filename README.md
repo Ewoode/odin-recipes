@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I demonstrated the ability to use file structure to link to other pages. This project had me using images, headings, ordered lists, and unordered lists. I also got more practice using the terminal and commiting and pushing changes to the odin-recipes repo
